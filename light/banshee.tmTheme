@@ -151,7 +151,7 @@
                     <key>fontStyle</key>
                     <string>italic</string>
                     <key>foreground</key>
-                    <string>saddlebrown</string>
+                    <string>#999</string>
                 </dict>
             </dict>
             <dict>
@@ -227,9 +227,9 @@
                 <key>settings</key>
                 <dict>
                     <key>fontStyle</key>
-                    <string>bold</string>
+                    <string></string>
                     <key>foreground</key>
-                    <string>coral</string>
+                    <string>saddlebrown</string>
                 </dict>
             </dict>
             <dict>
