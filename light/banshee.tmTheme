@@ -151,7 +151,7 @@
                     <key>fontStyle</key>
                     <string>italic</string>
                     <key>foreground</key>
-                    <string>#999</string>
+                    <string>saddlebrown</string>
                 </dict>
             </dict>
             <dict>
@@ -229,7 +229,7 @@
                     <key>fontStyle</key>
                     <string></string>
                     <key>foreground</key>
-                    <string>saddlebrown</string>
+                    <string>#660099</string>
                 </dict>
             </dict>
             <dict>
