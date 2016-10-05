@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>lightyellow</string>
+				<string>ivory</string>
 				<key>caret</key>
 				<string>#444444</string>
 				<key>foreground</key>
@@ -24,7 +24,7 @@
 				<key>selection</key>
 				<string>#9e9e9e55</string>
 				<key>gutter</key>
-		        <string>lightyellow</string>
+		        <string>ivory</string>
 		        <key>gutterForeground</key>
 		        <string>#924514</string>
 			</dict>
