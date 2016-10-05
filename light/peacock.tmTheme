@@ -20,7 +20,7 @@
 					<key>invisibles</key>
 					<string>#000000</string>
 					<key>lineHighlight</key>
-					<string>#ffcdff</string>
+					<string>#ffcdff77</string>
 					<key>selection</key>
 					<string>#6405D044</string>
 					<key>selectionBorder</key>
@@ -127,11 +127,9 @@
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
-					<string></string>
+					<string>bold</string>
 					<key>foreground</key>
 					<string>#025f49f7</string>
-					<key>background</key>
-					<string>#22ff491f</string>
 				</dict>
 			</dict>
 			<dict>
@@ -193,33 +191,59 @@
 				<dict>
 					<key>foreground</key>
 					<string>#cc4357</string>
-					<key>background</key>
-					<string>#ffddff92</string>
 				</dict>
 			</dict>
 			<dict>
-				<key>name</key>
-				<string>Support Class</string>
-				<key>scope</key>
-				<string>support.class</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key>
-					<string>#ef6aa7ff</string>
-					<key>background</key>
-					<string></string>
-				</dict>
+			    <key>name</key>
+			    <string>Inherited Class</string>
+			    <key>scope</key>
+			    <string>entity.other.inherited-class</string>
+			    <key>settings</key>
+			    <dict>
+			        <key>fontStyle</key>
+			        <string>italic</string>
+			        <key>foreground</key>
+			        <string>#cc4357</string>
+			    </dict>
 			</dict>
 			<dict>
-				<key>name</key>
-				<string>Library type</string>
-				<key>scope</key>
-				<string>support.type</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key>
-					<string>deeppink</string>
-				</dict>
+			    <key>name</key>
+			    <string>Library class/type</string>
+			    <key>scope</key>
+			    <string>support.type, support.class</string>
+			    <key>settings</key>
+			    <dict>
+			        <key>fontStyle</key>
+			        <string></string>
+			        <key>foreground</key>
+			        <string>deeppink</string>
+			    </dict>
+			</dict>
+			<dict>
+			    <key>name</key>
+			    <string>Library function</string>
+			    <key>scope</key>
+			    <string>support.function</string>
+			    <key>settings</key>
+			    <dict>
+			        <key>fontStyle</key>
+			        <string>bold</string>
+			        <key>foreground</key>
+			        <string>navy</string>
+			    </dict>
+			</dict>
+			<dict>
+			    <key>name</key>
+			    <string>Library constant</string>
+			    <key>scope</key>
+			    <string>support.constant</string>
+			    <key>settings</key>
+			    <dict>
+			        <key>fontStyle</key>
+			        <string></string>
+			        <key>foreground</key>
+			        <string>darkorchid</string>
+			    </dict>
 			</dict>
 			<dict>
 				<key>name</key>
