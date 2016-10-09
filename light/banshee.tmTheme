@@ -182,6 +182,19 @@
             </dict>
             <dict>
                 <key>name</key>
+                <string>Entity</string>
+                <key>scope</key>
+                <string>entity</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string></string>
+                    <key>foreground</key>
+                    <string>forestgreen</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
                 <string>Class name</string>
                 <key>scope</key>
                 <string>entity.name.class</string>
