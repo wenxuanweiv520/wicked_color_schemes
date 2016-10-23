@@ -41,7 +41,7 @@
 					<key>fontStyle</key>
 					<string>italic</string>
 					<key>foreground</key>
-					<string>goldenrod</string>
+					<string>#AABAAA</string>
 				</dict>
 			</dict>
 			<!-- comment -->
@@ -53,7 +53,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>steelblue</string>
+					<string>cornflowerblue</string>
 				</dict>
 			</dict>
 			<dict>
@@ -90,7 +90,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#C20094</string>
+					<string>#C25594</string>
 				</dict>
 			</dict>
 			<dict>
@@ -116,7 +116,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#7B5cbfff</string>
+					<string>#660099</string>
 				</dict>
 			</dict>
 			<dict>
@@ -153,7 +153,7 @@
 					<key>fontStyle</key>
 					<string>italic</string>
 					<key>foreground</key>
-					<string>dodgerblue</string>
+					<string>#DAA855</string>
 				</dict>
 			</dict>
 			<dict>
@@ -190,9 +190,9 @@
 			    <key>settings</key>
 			    <dict>
 			        <key>fontStyle</key>
-			        <string></string>
+			        <string>bold</string>
 			        <key>foreground</key>
-			        <string>#cc4357</string>
+			        <string>indianred3</string>
 			    </dict>
 			</dict>
 			<dict>
@@ -202,8 +202,10 @@
 				<string>entity.name.class</string>
 				<key>settings</key>
 				<dict>
+					<key>fontStyle</key>
+					<string>bold</string>
 					<key>foreground</key>
-					<string>#cc4357</string>
+					<string>indianred3</string>
 				</dict>
 			</dict>
 			<dict>
@@ -214,9 +216,9 @@
 			    <key>settings</key>
 			    <dict>
 			        <key>fontStyle</key>
-			        <string>italic</string>
+			        <string>bold italic</string>
 			        <key>foreground</key>
-			        <string>#cc4357</string>
+			        <string>cornflowerblue</string>
 			    </dict>
 			</dict>
 			<dict>
@@ -229,7 +231,7 @@
 			        <key>fontStyle</key>
 			        <string></string>
 			        <key>foreground</key>
-			        <string>deeppink</string>
+			        <string>palevioletred</string>
 			    </dict>
 			</dict>
 			<dict>
@@ -240,9 +242,9 @@
 			    <key>settings</key>
 			    <dict>
 			        <key>fontStyle</key>
-			        <string>bold</string>
+			        <string></string>
 			        <key>foreground</key>
-			        <string>navy</string>
+			        <string>salmon</string>
 			    </dict>
 			</dict>
 			<dict>
@@ -272,26 +274,26 @@
 				</dict>
 			</dict>
 			<dict>
-			  <key>name</key>
-			  <string>Meta Brace/Escape</string>
-			  <key>scope</key>
-			  <string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
-			  <key>settings</key>
-			  <dict>
-			    <key>foreground</key>
-			    <string>#e8364f</string>
-			  </dict>
+			  	<key>name</key>
+			  	<string>Meta Brace/Escape</string>
+			  	<key>scope</key>
+			  	<string>punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html</string>
+			  	<key>settings</key>
+			  	<dict>
+			    	<key>foreground</key>
+			    	<string>#e8364f</string>
+			  	</dict>
 			</dict>
 			<dict>
-			  <key>name</key>
-			  <string>String embedded-source</string>
-			  <key>scope</key>
-			  <string>string.quoted source</string>
-			  <key>settings</key>
-			  <dict>
-			    <key>foreground</key>
-			    <string>#112c99</string>
-			  </dict>
+			  	<key>name</key>
+			  	<string>String embedded-source</string>
+			  	<key>scope</key>
+			  	<string>string.quoted source</string>
+			  	<key>settings</key>
+			  	<dict>
+			    	<key>foreground</key>
+			    	<string>#112c99</string>
+			  	</dict>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -340,66 +342,66 @@
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>hotpink</string>
+					<string></string>
 					<key>foreground</key>
-					<string>#DFDFD5</string>
+					<string>olivedrab4</string>
 				</dict>
 			</dict>
 
 			<dict>
-			  <key>name</key>
-			  <string>GitGutter deleted</string>
-			  <key>scope</key>
-			  <string>markup.deleted.git_gutter</string>
-			  <key>settings</key>
-			  <dict>
-			    <key>foreground</key>
-			    <string>indianred</string>
-			  </dict>
+			  	<key>name</key>
+			  	<string>GitGutter deleted</string>
+			  	<key>scope</key>
+			  	<string>markup.deleted.git_gutter</string>
+			  	<key>settings</key>
+			  	<dict>
+			    	<key>foreground</key>
+			    	<string>indianred</string>
+			  	</dict>
 			</dict>
 			<dict>
-			  <key>name</key>
-			  <string>GitGutter inserted</string>
-			  <key>scope</key>
-			  <string>markup.inserted.git_gutter</string>
-			  <key>settings</key>
-			  <dict>
-			    <key>foreground</key>
-			    <string>olivedrab</string>
-			  </dict>
+			  	<key>name</key>
+			  	<string>GitGutter inserted</string>
+			  	<key>scope</key>
+			  	<string>markup.inserted.git_gutter</string>
+			  	<key>settings</key>
+			  	<dict>
+			    	<key>foreground</key>
+			    	<string>olivedrab</string>
+			  	</dict>
 			</dict>
 			<dict>
-			  <key>name</key>
-			  <string>GitGutter changed</string>
-			  <key>scope</key>
-			  <string>markup.changed.git_gutter</string>
-			  <key>settings</key>
-			  <dict>
-			    <key>foreground</key>
-			    <string>mediumpurple</string>
-			  </dict>
+			  	<key>name</key>
+			  	<string>GitGutter changed</string>
+			  	<key>scope</key>
+			  	<string>markup.changed.git_gutter</string>
+			  	<key>settings</key>
+			  	<dict>
+			    	<key>foreground</key>
+			    	<string>mediumpurple</string>
+			  	</dict>
 			</dict>
 			<dict>
-			  <key>name</key>
-			  <string>GitGutter ignored</string>
-			  <key>scope</key>
-			  <string>markup.ignored.git_gutter</string>
-			  <key>settings</key>
-			  <dict>
-			    <key>foreground</key>
-			    <string>#565656</string>
-			  </dict>
+			  	<key>name</key>
+			  	<string>GitGutter ignored</string>
+			  	<key>scope</key>
+			  	<string>markup.ignored.git_gutter</string>
+			  	<key>settings</key>
+			  	<dict>
+			    	<key>foreground</key>
+			    	<string>#565656</string>
+			  	</dict>
 			</dict>
 			<dict>
-			  <key>name</key>
-			  <string>GitGutter untracked</string>
-			  <key>scope</key>
-			  <string>markup.untracked.git_gutter</string>
-			  <key>settings</key>
-			  <dict>
-			    <key>foreground</key>
-			    <string>#565656</string>
-			  </dict>
+			  	<key>name</key>
+			  	<string>GitGutter untracked</string>
+			  	<key>scope</key>
+			  	<string>markup.untracked.git_gutter</string>
+			  	<key>settings</key>
+			  	<dict>
+			    	<key>foreground</key>
+			    	<string>#565656</string>
+			  	</dict>
 			</dict>
 
 			<dict>

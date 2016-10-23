@@ -342,7 +342,7 @@
                     <key>background</key>
                     <string>hotpink</string>
                     <key>foreground</key>
-                    <string>#DFDFD5</string>
+                    <string>whitesmoke</string>
                 </dict>
             </dict>
 
