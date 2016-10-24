@@ -5,14 +5,14 @@
 <plist version="1.0">
 	<dict>
 		<key>name</key>
-		<string>Peacock</string>
+		<string>Peahen</string>
 		<key>settings</key>
 		<array>
 			<dict>
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>#f3f2f3</string>
+					<string>#f8f8f8</string>
 					<key>caret</key>
 					<string>#100011</string>
 					<key>foreground</key>
@@ -20,7 +20,7 @@
 					<key>invisibles</key>
 					<string>#000000</string>
 					<key>lineHighlight</key>
-					<string>#ffcdff77</string>
+					<string>#66339911</string>
 					<key>selection</key>
 					<string>#6405D011</string>
 					<key>selectionBorder</key>
@@ -28,7 +28,7 @@
 					<key>tagsForeground</key>
 					<string>#0f0009ff</string>
 			      	<key>gutterForeground</key>
-			      	<string>#231B8290</string>
+			      	<string>navy</string>
 				</dict>
 			</dict>
 			<dict>
@@ -41,7 +41,7 @@
 					<key>fontStyle</key>
 					<string>italic</string>
 					<key>foreground</key>
-					<string>#AABAAA</string>
+					<string>#AAAABA</string>
 				</dict>
 			</dict>
 			<!-- comment -->
@@ -77,7 +77,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#7D9E52</string>
+					<string>coral2</string>
 				</dict>
 			</dict>
 			<dict>
@@ -90,7 +90,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#C25594</string>
+					<string>navy</string>
 				</dict>
 			</dict>
 			<dict>
@@ -103,7 +103,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#7D9E52</string>
+					<string>coral2</string>
 				</dict>
 			</dict>
 			<dict>
@@ -116,7 +116,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#660099</string>
+					<string>darkgreen</string>
 				</dict>
 			</dict>
 			<dict>
@@ -129,7 +129,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#025f49f7</string>
+					<string>red3</string>
 				</dict>
 			</dict>
 			<dict>
@@ -140,7 +140,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>seagreen4</string>
+					<string>#663399</string>
 				</dict>
 			</dict>
 			<dict>
@@ -166,7 +166,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#660099</string>
+					<string>darkgreen</string>
 				</dict>
 			</dict>
 			<dict>
@@ -179,7 +179,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#660099</string>
+					<string>darkgreen</string>
 				</dict>
 			</dict>
 			<dict>
@@ -192,7 +192,7 @@
 			        <key>fontStyle</key>
 			        <string>bold</string>
 			        <key>foreground</key>
-			        <string>salmon2</string>
+			        <string>#663399</string>
 			    </dict>
 			</dict>
 			<dict>
@@ -205,7 +205,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>salmon2</string>
+					<string>#663399</string>
 				</dict>
 			</dict>
 			<dict>
@@ -244,7 +244,7 @@
 			        <key>fontStyle</key>
 			        <string></string>
 			        <key>foreground</key>
-			        <string>salmon</string>
+			        <string>saddlebrown</string>
 			    </dict>
 			</dict>
 			<dict>
@@ -257,7 +257,7 @@
 			        <key>fontStyle</key>
 			        <string></string>
 			        <key>foreground</key>
-			        <string>darkorchid</string>
+			        <string>#663399</string>
 			    </dict>
 			</dict>
 			<dict>
@@ -305,7 +305,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>navy</string>
+					<string>darkgreen</string>
 				</dict>
 			</dict>
 			<dict>
@@ -331,7 +331,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>darkorchid</string>
+					<string>navy</string>
 				</dict>
 			</dict>
 			<dict>
