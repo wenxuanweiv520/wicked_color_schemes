@@ -22,9 +22,9 @@
 					<key>lineHighlight</key>
 					<string>#ffcdff77</string>
 					<key>selection</key>
-					<string>#6405D044</string>
+					<string>#6405D011</string>
 					<key>selectionBorder</key>
-					<string>#8425f0</string>
+					<string>#6405D033</string>
 					<key>tagsForeground</key>
 					<string>#0f0009ff</string>
 			      	<key>gutterForeground</key>
@@ -64,7 +64,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#7D9E52</string>
+					<string>goldenrod</string>
 				</dict>
 			</dict>
 			<dict>
@@ -412,7 +412,7 @@
 			    <key>settings</key>
 			    <dict>
 			        <key>foreground</key>
-			        <string>#66009999</string>
+			        <string>goldenrod</string>
 			    </dict>
 			</dict>
 			<dict>
