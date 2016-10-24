@@ -27,4 +27,7 @@ The wicked_color_schemes package is now included in the well known Sublime Packa
 ![lightvice_image](https://cloud.githubusercontent.com/assets/8496087/19115611/4356a728-8ad8-11e6-80d9-4f5e1c41cec5.png)
 
 ####peacock:
-![peacock_image](https://cloud.githubusercontent.com/assets/8496087/19115617/478360d4-8ad8-11e6-87e5-120dd141ef57.png)
+![peacock_image](https://cloud.githubusercontent.com/assets/8496087/19664345/86c06814-9a05-11e6-80df-a5f0e505e146.png)
+
+####peahen:
+![peahen_image](https://cloud.githubusercontent.com/assets/8496087/19664312/66dbe500-9a05-11e6-93fb-49a995df9b35.png)
