@@ -5,7 +5,7 @@ The wicked_color_schemes package is now included in the well known Sublime Packa
 
 ###Dark Samples
 ####creature:
-![creatue_image](https://cloud.githubusercontent.com/assets/8496087/19115579/2c1dfb88-8ad8-11e6-812c-0adf98e1291b.png)
+![creatue_image](https://user-images.githubusercontent.com/8496087/30468012-42626e20-99ae-11e7-8ce7-a1a0eb0d9c97.png)
 
 ####tweaker:
 ![tweaker_image](https://user-images.githubusercontent.com/8496087/30467345-959baf16-99a9-11e7-8cd3-bd7f16e97ae2.png)
