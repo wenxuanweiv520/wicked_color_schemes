@@ -55,7 +55,7 @@
 		  <key>settings</key>
 		  <dict>
 		    <key>fontStyle</key>
-		    <string>italic</string>
+		    <string></string>
 		    <key>foreground</key>
 		    <string>#B96FFF</string>
 		  </dict>
@@ -68,7 +68,7 @@
 		  <key>settings</key>
 		  <dict>
 		    <key>fontStyle</key>
-		    <string>bold</string>
+		    <string></string>
 		    <key>foreground</key>
 		    <string>chocolate2</string>
 		  </dict>
@@ -118,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>springgreen</string>
 			</dict>
@@ -131,7 +131,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>background</key>
 				<string></string>
 				<key>foreground</key>
@@ -160,7 +160,7 @@
 				<key>background</key>
 				<string></string>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#308FFF</string>
 			</dict>
@@ -173,7 +173,7 @@
 		  <key>settings</key>
 		  <dict>
 		    <key>fontStyle</key>
-		    <string>bold</string>
+		    <string></string>
 		    <key>foreground</key>
 		    <string>#FF0030be</string>
 		  </dict>
@@ -186,7 +186,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#D7BE08</string>
 			</dict>
@@ -199,7 +199,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#0094FF</string>
 			</dict>
@@ -251,7 +251,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#00FF99</string>
 			</dict>
@@ -323,7 +323,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#1E9CC8</string>
 			</dict>
@@ -336,7 +336,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#FF5F00</string>
 			</dict>

@@ -127,9 +127,9 @@
 				<key>settings</key>
 				<dict>
 					<key>fontStyle</key>
-					<string>bold</string>
+					<string>bold italic</string>
 					<key>foreground</key>
-					<string>red3</string>
+					<string>saddlebrown</string>
 				</dict>
 			</dict>
 			<dict>
