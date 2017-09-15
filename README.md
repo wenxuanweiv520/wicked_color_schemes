@@ -7,11 +7,20 @@ The wicked_color_schemes package is now included in the well known Sublime Packa
 ####creature:
 ![creatue_image](https://cloud.githubusercontent.com/assets/8496087/19115579/2c1dfb88-8ad8-11e6-812c-0adf98e1291b.png)
 
+####tweaker:
+![tweaker_image](https://user-images.githubusercontent.com/8496087/30467345-959baf16-99a9-11e7-8cd3-bd7f16e97ae2.png)
+
+####cactus:
+![cactus_image](https://user-images.githubusercontent.com/8496087/30467537-d3e996c4-99aa-11e7-9098-fdf661d7b7b3.png)
+
 ####hackboard:
 ![hackboard_image](https://cloud.githubusercontent.com/assets/8496087/19115583/2ebe093c-8ad8-11e6-868b-8956d3b9107a.png)
 
 ####seahorse:
 ![seahorse_image](https://cloud.githubusercontent.com/assets/8496087/19115588/30cb6e0e-8ad8-11e6-9b41-c65cb375f569.png)
+
+####gilded tiger:
+![gilded_tiger_image](https://user-images.githubusercontent.com/8496087/30467612-7a60667c-99ab-11e7-8c28-8728f0aaac9d.png)
 
 ####shredder:
 ![shredder_image](https://cloud.githubusercontent.com/assets/8496087/19115593/335436a6-8ad8-11e6-83c0-ca0b7cace3f4.png)
